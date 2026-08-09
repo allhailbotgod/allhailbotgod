@@ -1,14 +1,12 @@
-Hi, I'm Gerald Ezenwa 👋
+# Hi, I'm Gerald Ezenwa Uzochukwu
 
-Backend Developer | Python | FastAPI
+## Backend Developer | Python | FastAPI
 
 I build backend systems and APIs with a focus on clean architecture, reliable systems, and practical solutions.
 
 I'm interested in backend engineering, API development, databases, system design, and building software that solves real-world problems.
 
----
-
-About Me
+## About Me
 
 - Backend-focused developer
 - Building RESTful APIs with Python and FastAPI
@@ -16,71 +14,72 @@ About Me
 - Using Docker for containerization
 - Improving my knowledge of Data Structures and Algorithms
 - Interested in software architecture and scalable backend systems
-- Constantly building projects to strengthen my engineering skills
+- Continuously building projects to strengthen my engineering skills
 
----
+## Tech Stack
 
-Tech Stack
-
-Languages
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>Backend & APIs
+</p>
+
+**Backend & APIs**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-</p>Databases & ORM
+</p>
+
+**Databases**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic">
-</p>Tools
+</p>
+
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>---
+</p>
 
-Featured Project
+## Featured Project
 
-Rapid Incident Response API
+### Rapid Incident Response API
 
 A backend system for a smart emergency response platform designed to facilitate incident reporting, emergency dispatch, agency coordination, and response tracking.
 
-Built with:
+**Built with:** Python 路 FastAPI 路 PostgreSQL 路 SQLAlchemy 路 Alembic 路 Docker
 
-"Python" · "FastAPI" · "PostgreSQL" · "SQLAlchemy" · "Alembic" · "Docker"
+[View my repositories](https://github.com/allhailbotgod?tab=repositories)
 
-"View Project" (https://github.com/allhailbotgod)
+## GitHub Statistics
 
----
+<p>
+  <img src="https://img.shields.io/github/followers/allhailbotgod?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/public-repos/allhailbotgod?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories">
+  <img src="https://img.shields.io/github/created-at/allhailbotgod?style=for-the-badge&logo=github&label=GitHub%20Since" alt="GitHub Since">
+</p>
 
-GitHub Statistics
+## GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allhailbotgod&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="Gerald's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allhailbotgod&layout=compact&hide_border=true" height="180" alt="Top Languages">
-</p>---
+<p>
+  <img src="https://streak-stats.demolab.com?user=allhailbotgod" alt="GitHub Streak">
+</p>
 
-GitHub Streak
+## Contribution Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=allhailbotgod&hide_border=true" alt="GitHub Streak">
-</p>---
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allhailbotgod&theme=github-compact&hide_border=true&days=30" alt="GitHub Contribution Activity">
+</p>
 
-Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allhailbotgod&hide_border=true" alt="GitHub Contribution Graph">
-</p>---
-
-Currently Learning
+## Currently Learning
 
 - Advanced Backend Development
 - API Design and Architecture
@@ -89,9 +88,7 @@ Currently Learning
 - System Design
 - Data Structures and Algorithms
 
----
-
-Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://linkedin.com/in/gerald-ezenwa-uzo">
@@ -100,62 +97,6 @@ Connect With Me
   <a href="https://github.com/allhailbotgod">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>---
-
-<p align="center">
-  <i>Building. Learning. Improving.</i>
 </p>
-Tech: Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker
 
-"View Project" (#)
-
----
-
-More Projects
-
-I'm continuously building and improving projects across backend development, APIs, databases, and software engineering.
-
-"View All Repositories" (https://github.com/your-username?tab=repositories)
-
----
-
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" height="180"/>
-</p>---
-
-Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" />
-</p>---
-
-Currently Learning
-
-Backend Engineering
-        ↓
-API Design & Development
-        ↓
-Databases & Data Modeling
-        ↓
-Docker & Deployment
-        ↓
-System Design
-        ↓
-Data Structures & Algorithms
-
----
-
-Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>---
-
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
+## Building. Learning. Improving.
