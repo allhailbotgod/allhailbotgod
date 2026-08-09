@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Gerald
 
-<!--
-**allhailbotgod/allhailbotgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building reliable and scalable APIs.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer interested in backend engineering, APIs, databases, and software architecture. I enjoy building practical projects and continuously improving my problem-solving and engineering skills.
+
+Currently, I'm focused on:
+
+- Backend development with Python
+- FastAPI and REST APIs
+- PostgreSQL and SQL
+- Docker
+- Authentication and authorization
+- Data structures and algorithms
+
+## Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- SQL
+
+**Backend**
+- FastAPI
+- REST APIs
+
+**Databases**
+- PostgreSQL
+- SQLAlchemy
+
+**Tools**
+- Git
+- GitHub
+- Docker
+
+## Featured Project
+
+### Rapid Incident Response API
+
+A backend API for a smart emergency response system designed to facilitate incident reporting, emergency dispatch, agency coordination, and response tracking.
+
+## Currently Learning
+
+- Advanced backend development
+- System design
+- Data structures and algorithms
+- Database design
+
+## Connect With Me
+
+- LinkedIn: https://LinkedIn.com/in/gerald-ezenwa-uzo
+- X: x.com/BotGod_jay
+- Email: jayrad005@gmail.com
