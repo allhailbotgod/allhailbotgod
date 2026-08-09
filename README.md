@@ -51,5 +51,5 @@ A backend API for a smart emergency response system designed to facilitate incid
 ## Connect With Me
 
 - LinkedIn: https://LinkedIn.com/in/gerald-ezenwa-uzo
-- X: x.com/BotGod_jay
+- X: https://x.com/BotGod_jay
 - Email: jayrad005@gmail.com
