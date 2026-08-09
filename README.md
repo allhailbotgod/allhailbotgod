@@ -55,7 +55,7 @@ I'm interested in backend engineering, API development, databases, system design
 
 A backend system for a smart emergency response platform designed to facilitate incident reporting, emergency dispatch, agency coordination, and response tracking.
 
-**Built with:** Python 路 FastAPI 路 PostgreSQL 路 SQLAlchemy 路 Alembic 路 Docker
+**Built with:** Python • FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker
 
 [View my repositories](https://github.com/allhailbotgod?tab=repositories)
 
