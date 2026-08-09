@@ -1,4 +1,4 @@
-# Hi, I'm Gerald
+# Hi, I'm Gerald 👋
 
 Backend Developer focused on building reliable and scalable APIs.
 
