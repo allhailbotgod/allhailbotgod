@@ -63,8 +63,6 @@ A backend system for a smart emergency response platform designed to facilitate 
 
 <p>
   <img src="https://img.shields.io/github/followers/allhailbotgod?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/public-repos/allhailbotgod?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories">
-  <img src="https://img.shields.io/github/created-at/allhailbotgod?style=for-the-badge&logo=github&label=GitHub%20Since" alt="GitHub Since">
 </p>
 
 ## GitHub Streak
